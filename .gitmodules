@@ -1,0 +1,15 @@
+[submodule "bin"]
+	path = bin
+	url = https://github.com/kooBH/QtBin.git
+[submodule "lib/resample"]
+	path = lib/resample
+	url = https://github.com/kooBH/resample.git
+[submodule "lib/KJsonConfig"]
+	path = lib/KJsonConfig
+	url = https://github.com/kooBH/KJsonConfig.git
+[submodule "lib/RtAudioWrapper"]
+	path = lib/RtAudioWrapper
+	url = https://github.com/kooBH/RtAudioWrapper.git
+[submodule "lib/WAV"]
+	path = lib/WAV
+	url = https://github.com/kooBH/WAV.git
